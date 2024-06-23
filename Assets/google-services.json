@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643515849896",
+    "project_id": "unitytankdefender",
+    "storage_bucket": "unitytankdefender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643515849896:android:27515b37c6a66eb71d769d",
+        "android_client_info": {
+          "package_name": "com.firebase.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643515849896-sk3his4vij506g3vf99qs6t1lk257m5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwUBC08MzLHG_xHo0qRWIZzrtRcZTOKa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643515849896-sk3his4vij506g3vf99qs6t1lk257m5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
